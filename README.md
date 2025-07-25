@@ -37,15 +37,6 @@ I'm a passionate developer specializing in AI-driven applications, automation, a
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnhood9209241&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnhood9209241&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 | Project | Description | Tech |
