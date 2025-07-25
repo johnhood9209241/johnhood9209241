@@ -20,11 +20,12 @@
 
 I'm a Senior Front End Developer with 8+ years of experience delivering complex logic beneath simple, elegant UIs. I specialize in building high-performance, scalable web applications, advanced graphics rendering systems (like FigJam & Miro), and AI-powered products. I have a keen eye for detail, a design-oriented mindset, and a passion for mentoring teams and driving product success.
 
-- 🖼️ Expert in interactive graphics, WebGL/WebGPU/Three.js, and real-time canvas experiences
-- 🛠️ Led frontend architecture and graphics systems at stealth startups, Walmart, Airbnb, and Zillow
-- 🌱 Always learning about LLMs, agentic AI, and next-gen web technologies
-- 💬 Ask me about React, Next.js, TypeScript, AI, rendering engines, and frontend leadership
-- 📫 Reach me at [johnhood920924@gmail.com](mailto:johnhood920924@gmail.com) or [LinkedIn](https://www.linkedin.com/in/johnstealth)
+- 🖼️ Expert in interactive graphics, WebGL/WebGPU/Three.js, and real-time canvas experiences  
+- 🛠️ Led frontend architecture and graphics systems at stealth startups  
+- 🤖 Integrated LLMs, ChatGPT, and custom AI agents into production apps, powering advanced features in healthcare, finance, and productivity tools  
+- 🌱 Always learning about LLMs, agentic AI, and next-gen web technologies  
+- 💬 Ask me about React, Next.js, TypeScript, AI, rendering engines, and frontend leadership  
+- 📫 Reach me at [johnhood920924@gmail.com](mailto:johnhood920924@gmail.com) or [LinkedIn](https://www.linkedin.com/in/johnstealth)  
 - ⚡ Fun fact: I love turning complex ideas into beautiful, user-friendly products!
 
 ---
@@ -64,15 +65,6 @@ I'm a Senior Front End Developer with 8+ years of experience delivering complex 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnhood9209241&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnhood9209241&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
