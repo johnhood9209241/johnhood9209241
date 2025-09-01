@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/186065206?v=4" width="120" style="border-radius:50%" alt="Profile Avatar"/>
 </p>
 
-<h1 align="center">Hi, I'm clever man 👋</h1>
+<h1 align="center">Hi, I'm John hood 👋</h1>
 <p align="center">
   <b>Senior Frontend Developer | Graphics Systems Architect | AI Enthusiast</b>
 </p>
