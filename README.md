@@ -3,15 +3,9 @@
   <img src="https://avatars.githubusercontent.com/u/186065206?v=4" width="120" style="border-radius:50%" alt="Profile Avatar"/>
 </p>
 
-<h1 align="center">Hi, I'm John Hood 👋</h1>
+<h1 align="center">Hi, I'm clever man 👋</h1>
 <p align="center">
   <b>Senior Frontend Developer | Graphics Systems Architect | AI Enthusiast</b>
-</p>
-
-<p align="center">
-  <a href="mailto:johnhood920924@gmail.com">johnhood920924@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/johnstealth">LinkedIn</a> • 
-  Wildomar, California, USA
 </p>
 
 ---
@@ -25,7 +19,6 @@ I'm a Senior Front End Developer with 8+ years of experience delivering complex 
 - 🤖 Integrated LLMs, ChatGPT, and custom AI agents into production apps, powering advanced features in healthcare, finance, and productivity tools  
 - 🌱 Always learning about LLMs, agentic AI, and next-gen web technologies  
 - 💬 Ask me about React, Next.js, TypeScript, AI, rendering engines, and frontend leadership  
-- 📫 Reach me at [johnhood920924@gmail.com](mailto:johnhood920924@gmail.com) or [LinkedIn](https://www.linkedin.com/in/johnstealth)  
 - ⚡ Fun fact: I love turning complex ideas into beautiful, user-friendly products!
 
 ---
@@ -118,11 +111,6 @@ Bachelor of Science, Computer Science
 ---
 
 ## 🤝 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/johnstealth)
-- [Email](mailto:johnhood920924@gmail.com)
-- Wildomar, California, USA
-
 ---
 
 <!--
